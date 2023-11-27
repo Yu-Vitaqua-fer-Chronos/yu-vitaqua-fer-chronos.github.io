@@ -18,10 +18,6 @@
       "name": "Inko Midoriya",
       "ext": "png"
     },
-    "5e45178b-0d75-4fb3-aa53-706fd5dbafd5": {
-      "name": "AllMight",
-      "ext": "png"
-    },
     "54b913a9-8d64-4e52-be9d-da2ce0879f3d": {
       "name": "Shotwo",
       "ext": "png"
@@ -78,32 +74,44 @@
       "name": "Kurokumo",
       "ext": "png"
     },
+    "d4aa352d-41c5-4f54-8dce-6c376bf4b3ce": {
+      "name": "Avery",
+      "ext": "jpg"
+    },
     "be833132-b01d-4806-920e-6dffd41653a6": {
       "name": "Zaphyx",
       "ext": "png"
     },
     "6d81ca76-6ad1-4d44-89cb-d168e6e042e0": {
-      "name": "Bitchy Fox",
-      "ext": "png"
-    },
-    "52bfc480-00e9-46a8-97a9-0f4a324c6e3a": {
-      "name": "Sage",
+      "name": "Lucifer",
       "ext": "png"
     },
     "95a8eccc-24d1-4f51-b4d8-181cff96c560": {
       "name": "Eli Kirishima",
       "ext": "png"
     },
+    "119dfa7d-e530-418c-91b7-89fbe699e8b7": {
+      "name": "Mai",
+      "ext": "png"
+    },
     "a207b870-8986-4a26-a9c5-4c7f683dcb1c": {
       "name": "Gear",
+      "ext": "png"
+    },
+    "cbddee13-7cf9-4214-ac80-1bd499412f08": {
+      "name": "Hikari",
+      "ext": "png"
+    },
+    "2d5e7bc7-7cc6-4bfd-ad7d-c3f963ce08af": {
+      "name": "Himiko",
       "ext": "png"
     },
     "83fc0e86-f3b1-41d1-b39b-71ee5da0b10f": {
       "name": "Frisk",
       "ext": "png"
     },
-    "2d5e7bc7-7cc6-4bfd-ad7d-c3f963ce08af": {
-      "name": "Himiko",
+    "5fa7da16-cf0d-4814-b517-b02fd142706b": {
+      "name": "Siren",
       "ext": "png"
     },
     "813a1dd2-a438-4354-820e-a7bb7920161d": {
@@ -129,6 +137,10 @@
     "04dc149f-4231-4a33-8b51-d2b414e62019": {
       "name": "Olivia",
       "ext": "png"
+    },
+    "d2d1f40c-6e68-4bd5-94c3-fd75744c9cc6": {
+      "name": "Ava",
+      "ext": "jpg"
     },
     "2c6c0991-57dc-459c-83d2-43c0e9b381b9": {
       "name": "Blurry",
@@ -222,10 +234,6 @@
       "name": "Freya",
       "ext": "png"
     },
-    "2f48ed1c-a462-4941-ba15-077a7ee58c05": {
-      "name": "Sans",
-      "ext": "png"
-    },
     "0dbb10e8-6f22-42d1-a324-a49aeb7abd80": {
       "name": "Nezu",
       "ext": "png"
@@ -240,6 +248,10 @@
     },
     "08162a15-f3a8-4187-8381-eaf11a0edee7": {
       "name": "Setsuna",
+      "ext": "png"
+    },
+    "2f48ed1c-a462-4941-ba15-077a7ee58c05": {
+      "name": "Sans",
       "ext": "png"
     },
     "bca12f93-4d00-4be3-8f9b-2eaa938843ee": {
@@ -312,89 +324,92 @@
     }
   },
   "cache": [
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/5359add8-67ab-489f-8d5e-ec9a01cb996b.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/59c82cdf-2bce-4ef1-a180-1d2830d04411.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/34026fbc-8d28-4481-8476-ab4aaf6acd1a.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/8e4403ac-9d63-451b-beae-b703e5962fb8.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/dd5ed08c-b6b2-4136-a5f4-5133f0127ad3.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/89b6d6da-c89b-44fa-85e4-d8187cb965f6.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/97149a63-51c0-4ba6-9756-3bcdf3f85926.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/8165d139-c954-40db-8971-efe9d81f052b.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/64eedd82-de13-4ed5-958a-da088dd2ce91.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/616e778b-6f4a-4e10-aec5-6b9611d02d58.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2d5e7bc7-7cc6-4bfd-ad7d-c3f963ce08af.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/84712350-78f0-4e08-969c-35af2b9e716e.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/ef81ac8e-e3ee-463f-bcca-b72546c27c89.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/fe948e69-076e-464b-9903-528b0b8c359d.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/54b913a9-8d64-4e52-be9d-da2ce0879f3d.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/813a1dd2-a438-4354-820e-a7bb7920161d.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/f0796e71-3101-4b7f-aede-7643e9d9cdf3.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2f48ed1c-a462-4941-ba15-077a7ee58c05.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/7595810e-2dd6-496d-a606-27dd6edb8a3c.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/e4883b92-1123-4c03-bfb8-3712531d6bb3.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/499894ce-e080-4d8c-b63b-1a70c068caef.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/95a8eccc-24d1-4f51-b4d8-181cff96c560.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/79753c81-91cb-455d-86c4-f9fa5040efe1.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/ebc02644-5470-403d-b5ed-54ac8188cf67.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/d30a144f-fad9-4ead-bd00-6aabb4ffbcec.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/5e45178b-0d75-4fb3-aa53-706fd5dbafd5.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/f533eb2a-077e-4d3f-8516-f77a9b44db7f.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/ca86afbb-15fe-4095-b045-8caf02d1ff74.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/4078ed44-bdb0-4300-80d4-86b452ec141f.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/649610a7-c85f-48c0-9a00-607fa003a5bc.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/c7fc2b10-ab09-4a31-aab3-c696c1da403d.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/f9f8051a-367d-4d89-9c44-6cc6d0611076.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2fb520fb-3eef-46b6-9ef3-f89dd0b5b446.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/04dc149f-4231-4a33-8b51-d2b414e62019.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/4d3007a2-2de3-41a4-88d1-af4947de20f5.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/369c1441-a5a6-4a6e-83c9-65392f48ad69.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/615b4978-8e6c-428c-bba9-e04878c41dca.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/e98d0f57-0f69-4a27-a5e3-1d317a9b4acc.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/0569b54d-55a8-4d50-89b2-aadb90c911b4.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/d95630d6-fe62-4248-8900-4363f7f42138.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2b07fd76-f73c-4f99-af04-bcf37e0b7bbc.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/a207b870-8986-4a26-a9c5-4c7f683dcb1c.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/00713a1a-f008-4203-9526-55ee76d8e01c.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/c92a7708-645a-4d37-9a23-8ac3dd2368e1.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/0dbb10e8-6f22-42d1-a324-a49aeb7abd80.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/574cc844-1086-494a-8acd-8313c098fbc1.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/e10cb01d-4616-4629-be67-f13121d3c8fb.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/c4688845-fed1-4ab5-99c6-55445e55d655.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/bca12f93-4d00-4be3-8f9b-2eaa938843ee.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/464cc3e1-ad44-4ba0-8c24-dc35cd2e6464.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/83fc0e86-f3b1-41d1-b39b-71ee5da0b10f.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/1e3a4a07-855a-4e88-854f-2e56fd3d05f8.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/4ce8f741-42e8-4e5c-af7a-3e97ddd496e4.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/5ddb73ab-c51b-4f39-9253-c8c7471ea2f9.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/646fd154-91e3-4e77-9585-c5c0273dd7f1.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/07ef27ad-3168-405f-b7ed-1457c785690d.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/d15b6053-b385-462b-a373-cd55cd789ff1.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2b830425-90e0-42ce-b80d-183c4ff1f51c.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/576aab93-88ad-414f-82df-5217fe55d961.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/c0298792-c94e-4e97-aef3-77a118851979.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/0199800a-9853-4ec0-bdcd-669854ffe5c7.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/9db233a7-2dd1-4efe-b4d5-2644d186ab0b.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/a4d9f0ad-7f54-40ab-978b-2522ddfe0a8a.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/08162a15-f3a8-4187-8381-eaf11a0edee7.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/be833132-b01d-4806-920e-6dffd41653a6.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/890f5dd6-0c06-4031-8833-8edcb0e5a6cc.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/d738954a-0af3-4049-8ae8-38a5aacc78f9.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/1ecdbe06-521d-479b-971a-f403d7f1ff0c.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/05459c87-cfc0-4c49-9faf-3fddade0f539.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/c7c9fe33-15a4-493d-86dd-eb5038f75336.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/86b8dfb9-28f9-43b5-be12-edc06779a5ec.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/52bfc480-00e9-46a8-97a9-0f4a324c6e3a.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/2c6c0991-57dc-459c-83d2-43c0e9b381b9.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/fe4fb17e-9685-4cc4-8f21-5dcd4b787242.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/9ae2f392-d112-4fb0-a2c4-77eea63ff353.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/6d81ca76-6ad1-4d44-89cb-d168e6e042e0.png",
-    "file:///home/chronos/Projects/Nim/PkUncorder/output/m/26eeb2a7-0c2d-41f4-8635-1c7112dc3deb.png"
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/5359add8-67ab-489f-8d5e-ec9a01cb996b.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/8e4403ac-9d63-451b-beae-b703e5962fb8.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/34026fbc-8d28-4481-8476-ab4aaf6acd1a.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/89b6d6da-c89b-44fa-85e4-d8187cb965f6.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/59c82cdf-2bce-4ef1-a180-1d2830d04411.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2d5e7bc7-7cc6-4bfd-ad7d-c3f963ce08af.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d30a144f-fad9-4ead-bd00-6aabb4ffbcec.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/cbddee13-7cf9-4214-ac80-1bd499412f08.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/64eedd82-de13-4ed5-958a-da088dd2ce91.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/f0796e71-3101-4b7f-aede-7643e9d9cdf3.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/5fa7da16-cf0d-4814-b517-b02fd142706b.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/97149a63-51c0-4ba6-9756-3bcdf3f85926.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/dd5ed08c-b6b2-4136-a5f4-5133f0127ad3.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/616e778b-6f4a-4e10-aec5-6b9611d02d58.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/84712350-78f0-4e08-969c-35af2b9e716e.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/813a1dd2-a438-4354-820e-a7bb7920161d.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/fe948e69-076e-464b-9903-528b0b8c359d.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/499894ce-e080-4d8c-b63b-1a70c068caef.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/ebc02644-5470-403d-b5ed-54ac8188cf67.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/7595810e-2dd6-496d-a606-27dd6edb8a3c.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/e4883b92-1123-4c03-bfb8-3712531d6bb3.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/f533eb2a-077e-4d3f-8516-f77a9b44db7f.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/4d3007a2-2de3-41a4-88d1-af4947de20f5.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/8165d139-c954-40db-8971-efe9d81f052b.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/ef81ac8e-e3ee-463f-bcca-b72546c27c89.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/649610a7-c85f-48c0-9a00-607fa003a5bc.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/79753c81-91cb-455d-86c4-f9fa5040efe1.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/4078ed44-bdb0-4300-80d4-86b452ec141f.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/95a8eccc-24d1-4f51-b4d8-181cff96c560.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2fb520fb-3eef-46b6-9ef3-f89dd0b5b446.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/f9f8051a-367d-4d89-9c44-6cc6d0611076.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/04dc149f-4231-4a33-8b51-d2b414e62019.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/c7fc2b10-ab09-4a31-aab3-c696c1da403d.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/0569b54d-55a8-4d50-89b2-aadb90c911b4.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/0dbb10e8-6f22-42d1-a324-a49aeb7abd80.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d4aa352d-41c5-4f54-8dce-6c376bf4b3ce.jpg",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/615b4978-8e6c-428c-bba9-e04878c41dca.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/369c1441-a5a6-4a6e-83c9-65392f48ad69.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2b07fd76-f73c-4f99-af04-bcf37e0b7bbc.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/e98d0f57-0f69-4a27-a5e3-1d317a9b4acc.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/e10cb01d-4616-4629-be67-f13121d3c8fb.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/a207b870-8986-4a26-a9c5-4c7f683dcb1c.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d95630d6-fe62-4248-8900-4363f7f42138.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/bca12f93-4d00-4be3-8f9b-2eaa938843ee.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/00713a1a-f008-4203-9526-55ee76d8e01c.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/c92a7708-645a-4d37-9a23-8ac3dd2368e1.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/574cc844-1086-494a-8acd-8313c098fbc1.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/c4688845-fed1-4ab5-99c6-55445e55d655.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/464cc3e1-ad44-4ba0-8c24-dc35cd2e6464.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/4ce8f741-42e8-4e5c-af7a-3e97ddd496e4.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/54b913a9-8d64-4e52-be9d-da2ce0879f3d.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/07ef27ad-3168-405f-b7ed-1457c785690d.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/83fc0e86-f3b1-41d1-b39b-71ee5da0b10f.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/646fd154-91e3-4e77-9585-c5c0273dd7f1.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2b830425-90e0-42ce-b80d-183c4ff1f51c.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/890f5dd6-0c06-4031-8833-8edcb0e5a6cc.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/0199800a-9853-4ec0-bdcd-669854ffe5c7.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d15b6053-b385-462b-a373-cd55cd789ff1.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/5ddb73ab-c51b-4f39-9253-c8c7471ea2f9.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/ca86afbb-15fe-4095-b045-8caf02d1ff74.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/1e3a4a07-855a-4e88-854f-2e56fd3d05f8.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/c0298792-c94e-4e97-aef3-77a118851979.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/05459c87-cfc0-4c49-9faf-3fddade0f539.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d2d1f40c-6e68-4bd5-94c3-fd75744c9cc6.jpg",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/be833132-b01d-4806-920e-6dffd41653a6.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/d738954a-0af3-4049-8ae8-38a5aacc78f9.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/08162a15-f3a8-4187-8381-eaf11a0edee7.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/576aab93-88ad-414f-82df-5217fe55d961.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/fe4fb17e-9685-4cc4-8f21-5dcd4b787242.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/86b8dfb9-28f9-43b5-be12-edc06779a5ec.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/c7c9fe33-15a4-493d-86dd-eb5038f75336.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/1ecdbe06-521d-479b-971a-f403d7f1ff0c.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2f48ed1c-a462-4941-ba15-077a7ee58c05.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/9db233a7-2dd1-4efe-b4d5-2644d186ab0b.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/a4d9f0ad-7f54-40ab-978b-2522ddfe0a8a.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/2c6c0991-57dc-459c-83d2-43c0e9b381b9.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/9ae2f392-d112-4fb0-a2c4-77eea63ff353.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/6d81ca76-6ad1-4d44-89cb-d168e6e042e0.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/26eeb2a7-0c2d-41f4-8635-1c7112dc3deb.png",
+    "https://yu-vitaqua-fer-chronos.github.io/avatars/m/119dfa7d-e530-418c-91b7-89fbe699e8b7.png"
   ],
   "invalidUrls": [
     "https://cdn.discordapp.com/attachments/760218182140690443/815704737105444895/screendShot_2021-02-28_21-57-39.png",
-    "https://cdn.discordapp.com/attachments/760218182140690443/802935445725118504/Screenshot_20210124_161807.jpg",
-    "https://cdn.discordapp.com/attachments/760218182140690443/810962562077425714/IMG_20210215_195525.jpg",
     "https://cdn.discordapp.com/attachments/760218182140690443/808995500161761310/screendShot_2021-02-10_09-37-25.png",
-    "https://cdn.discordapp.com/attachments/760218182140690443/815866541123436564/screendShot_2021-02-09_21-59-19.png"
+    "https://cdn.discordapp.com/attachments/760218182140690443/810962562077425714/IMG_20210215_195525.jpg",
+    "https://cdn.discordapp.com/attachments/760218182140690443/815866541123436564/screendShot_2021-02-09_21-59-19.png",
+    "https://cdn.discordapp.com/attachments/760218182140690443/802935445725118504/Screenshot_20210124_161807.jpg"
   ]
 }
